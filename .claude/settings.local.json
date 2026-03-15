@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mise use:*)"
+      "Bash(mise use:*)",
+      "Bash(cd /Users/taigakato/WebstormProjects/nextjs-website-sample/my-next-project && npm install --save-dev prettier)"
     ]
   }
 }
