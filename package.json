@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "classnames": "^2.5.1"
+    "classnames": "^2.5.1",
+    "microcms-js-sdk": "^3.1.0"
   }
 }
